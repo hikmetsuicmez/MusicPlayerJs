@@ -84,6 +84,10 @@ jspm_packages/
 # Lerna
 lerna-debug.log
 
+#image and mp3
+*.img
+*.mp3
+
 # System Files
 .DS_Store
 Thumbs.db
